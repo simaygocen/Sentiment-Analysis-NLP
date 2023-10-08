@@ -25,5 +25,5 @@ This project aims to analyze the emotions in the text written in a text file, cr
 - [Anaconda](https://www.anaconda.com) 
 
 ## Screenshot
-![screenshot1!](screenshot1.png)
 ![screenshot2!](screenshot2.png)
+![screenshot1!](screenshot1.png)
